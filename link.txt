@@ -1,0 +1,15 @@
+https://h-1b-visa-status-predictor-63ssswpb9acbsh3vutd7xh.streamlit.app/
+
+
+Enter the following details for prediction:
+
+Enter Wage Rate of Pay (From):  14523.00
+Enter Prevailing Wage:  14523.00
+Enter Employer State (e.g., CA, TX, NY):  18
+Enter Worksite State (e.g., CA, TX, NY):  17
+Enter SOC Code (e.g., 13-2011, 15-1121):  221
+Enter Total Worker Positions:  1
+Is it a Full-Time Position? (Y/N):  Y
+Is Employer H-1B Dependent? (Y/N):  N
+Is Employer a Willful Violator? (Y/N):  N
+Enter NAICS Code:  622310
